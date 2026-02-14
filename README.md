@@ -34,9 +34,6 @@ java PorterTrack
 Requires Java 8 or above.
 
 ---
-
 ## 👤 Author
 **Mouktika Y**  
 B.Tech CSE — GITAM University  
-GitHub: [Moukthika-y](https://github.com/Moukthika-y)
-

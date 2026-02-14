@@ -39,5 +39,4 @@ Requires Java 8 or above.
 **Mouktika Y**  
 B.Tech CSE — GITAM University  
 GitHub: [Moukthika-y](https://github.com/Moukthika-y)
-## 🛠️ How to Run
-1. Compile:
+
